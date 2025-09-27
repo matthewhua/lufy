@@ -18,7 +18,7 @@ network:
 database:
   redis:
     # 单机模式配置
-    addr: "127.0.0.1:6379"
+    addr: "192.168.199.199:6379"
     password: ""
     db: 0
     
